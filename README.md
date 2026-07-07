@@ -1,4 +1,4 @@
-##  Hey, I'm S.Rishikesh Yadav
+## 👋 Hey, I'm S.Rishikesh Yadav
 💻 B.Tech Computer Science Student |🚀 Web Developer | 🎮 Game Developer | 📈 Data Analytics Enthusiast<br><br>I enjoy transforming ideas into digital experiences through web development, creating engaging games, and analyzing data to uncover meaningful insights. I believe in learning by building and continuously improving my skills with every project.
 
 
